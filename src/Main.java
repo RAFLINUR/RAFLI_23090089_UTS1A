@@ -17,7 +17,7 @@ public class Main {
 
         }
 
-        //jika nilai kurang dari 10
+
         if (s_ % 2 == 0 && _p.length() > 10) {
             System.out.println(_p + "Semoga lulus");
         }
